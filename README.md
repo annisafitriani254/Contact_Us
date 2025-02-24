@@ -3,15 +3,15 @@
 <form
   action="https://formspree.io/f/xldgyejk"
   method="POST"
+  enctype="multipart/form-data"
 >
   <label>
     Your email:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    Your file:
+    <input type="file" name="upload">
   </label>
-  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
