@@ -1,7 +1,7 @@
 # Contact Us
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,12 +18,6 @@
                     <div class="ftext">Get in Touch</div>
                     <img src="./img-contact.jpg" alt="" class="cntct-img">
                     <div class="social-links">
-                        <span class="stext">Connect with us:</span>
-                        <ul class="social-media">
-                            <li><a href="https://www.facebook.com/rachelleqty16/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                            <li><a href="https://twitter.com/home"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="https://www.instagram.com/pntnplrachelle__/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="https://www.youtube.com/channel/UCkSmHC6OGtrf6VVL_NKItng"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>
                 </div>
