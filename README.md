@@ -1,4 +1,4 @@
-# Contact Us
+
 
 
 
@@ -15,14 +15,12 @@
         <div class="container2">
             <div class="cntct-item">
                 <div class="contact">
-                    <div class="ftext">Get in Touch</div>
                     <img src="./img-contact.jpg" alt="" class="cntct-img">
                     <div class="social-links">
-                        </ul>
                     </div>
                 </div>
                 <div class="send-form">
-                    <h4 class="ttext">Contact Us</h4>
+                    <h4 class="ttext">Get in Touch</h4>
                     <form action="">
                         <div class="inputbox">
                             <input type="text" class="input" required>
