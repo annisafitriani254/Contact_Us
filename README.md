@@ -20,21 +20,21 @@
                     </div>
                 </div>
                 <div class="send-form">
-                    <h4 class="ttext">Get in Touch</h4>
+                    <h4 class="ttext">Hubungi</h4>
                     <form action="">
                         <div class="inputbox">
                             <input type="text" class="input" required>
-                            <label for="">Name</label>
+                            <label for="">Nama</label>
                         </div>
                         <div class="inputbox">
                             <input type="tel" class="input" required>
-                            <label for="">Phone</label>
+                            <label for="">Email</label>
                         </div>
                         <div class="inputbox">
                             <textarea name="" class="input" required id="message" cols="30" rows="10"></textarea>
-                            <label for="">Message</label>
+                            <label for="">Pesan</label>
                         </div>
-                        <input type="submit" class="btn-send" value="Send">
+                        <input type="submit" class="btn-send" value="Kirim">
                     </form>
                 </div>
             </div>
